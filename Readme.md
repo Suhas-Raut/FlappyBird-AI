@@ -8,3 +8,5 @@
 
 
 <img align="center" alt="coding" width="400" src="https://github.com/Suhas-Raut/FlappyBird-AI/blob/master/images/img1.jpg">
+
+<img align="center" alt="coding" width="400" src="https://github.com/Suhas-Raut/FlappyBird-AI/blob/master/images/img2.jpg">
