@@ -4,4 +4,7 @@
 
 # Flappy Bird AI 🐤
 
+- Implemeted Using NEAT (NeuroEvolution of Augmenting Topologies) And Pygame
+
+
 <img align="center" alt="coding" width="400" src="https://github.com/Suhas-Raut/FlappyBird-AI/blob/master/images/img1.jpg">
